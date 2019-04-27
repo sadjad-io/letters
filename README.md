@@ -5,5 +5,7 @@
 
 </SPAN>
 
+- git clone https://github.com/sadjad-io/letters.git
+- cd letters
 - python3 -m pip install python-docx --user
 - python3 app.py
